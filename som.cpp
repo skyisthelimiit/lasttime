@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<iostream>
 using namespaces std;
 int main(){
@@ -10,3 +11,5 @@ int main(){
   
 
 }
+=======
+>>>>>>> parent of bc12d12 (n)
